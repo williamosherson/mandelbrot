@@ -1,1 +1,2 @@
 # mandelbrot
+this repository contains most of the simulations I've written about the mandelbrott set, it includes animations, interactive julia set simulations in which the julia sets vary depending on the point on the mandelbrott set your cursor is on, interactive simulations of how the sequence members vary depending on the starting point of the mandelbrot set and many more. (some of the code may not work) 
